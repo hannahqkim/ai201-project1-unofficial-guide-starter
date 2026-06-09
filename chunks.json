@@ -1,0 +1,442 @@
+[
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 0,
+    "text": "How to Get the Toughest Restaurant Reservations in New York\nSource: Resy — Right This Way blog (https://blog.resy.com/the-one-who-keeps-the-book/toughest-restaurant-reservations-nyc/)\nUpdated: April 29, 2026\n\nOften in New York, the most important dining question doesn't revolve around where to eat: it's how do we get in? For years, Resy has gone straight to the source to ask restaurant hosts, maitre d's, and general managers for the secret tips, tricks, and shortcuts to getting into the city's most in-demand restaurants. These are the ones you set countless Notifies on Resy for, and the ones you set multiple alarms for in anticipation of their next reservation drop. Consider this your cheat sheet for getting in.",
+    "char_len": 721,
+    "word_len": 110,
+    "id": 0
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 1,
+    "text": "Consider this your cheat sheet for getting in.\n\nKidilum (Flatiron District)\nReservations Drop: Two weeks in advance at 11 a.m.\nShould You Walk In? Yes. They hold the full-service bar for just that.\nPro Tip: They don't have room for high chairs, so plan accordingly before dining with little ones.\n\nAmbassadors Clubhouse New York (NoMad)\nReservations Drop: Two weeks in advance at midnight, but know reservations fill up very quickly.\nShould You Walk In? You can, but don't get your hopes up. Availability is very limited and even the bar is reservation only.\nPro Tip: To know when the next reservation drops happen, register for the Priority Access list on their website or Instagram.",
+    "char_len": 684,
+    "word_len": 114,
+    "id": 1
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 2,
+    "text": "Pro Tip: To know when the next reservation drops happen, register for the Priority Access list on their website or Instagram.\n\nBistrot Ha (Lower East Side)\nReservations Drop: Two weeks in advance at midnight.\nShould You Walk In? Yes, but if you do, start lining up by 4:45 p.m. before they open at 5:30 p.m.\nPro Tip: It might be worth stopping by in person and asking to make a reservation for a future date. (It worked for us over at Ha's Snack Bar.)",
+    "char_len": 451,
+    "word_len": 84,
+    "id": 2
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 3,
+    "text": "Pro Tip: It might be worth stopping by in person and asking to make a reservation for a future date. (It worked for us over at Ha's Snack Bar.)\n\nRamen By Ra (East Village)\nReservations Drop: Twice a month at 9 a.m. On the 1st, reservations open for the 16th through the end of the month. On the 15th, reservations open for the 1st through the 15th of the following month.\nShould You Walk In? No, they're reservation only. But you can buy some dishes to go.\nPro Tip: Can't get a reservation? Stop by their counter for a cup of broth, ramen cups, and a bao for breakfast, which you can also pre-order online.",
+    "char_len": 606,
+    "word_len": 115,
+    "id": 3
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 4,
+    "text": "Stop by their counter for a cup of broth, ramen cups, and a bao for breakfast, which you can also pre-order online.\n\nOdo East Village (East Village)\nReservations Drop: 30 days in advance at midnight.\nShould You Walk In? You could, but it's unlikely you'd get a seat as it's a small place (just 14 seats) and they tend to be fully booked.\nPro Tip: They may soon release weekend late-night seatings catering to walk-ins. You can also try emailing the restaurant to see if they can fit you in.\n\nThe Four Horsemen (Williamsburg)\nReservations Drop: 30 days in advance at 7 a.m.\nShould You Walk In? Yes, but get there by 5 p.m. so you can get in by 5:30 when the restaurant opens for dinner.\nPro Tip: One of the best seats in the house is at the bar, which is reserved for walk-ins. Consider stopping in for lunch.",
+    "char_len": 808,
+    "word_len": 151,
+    "id": 4
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 5,
+    "text": "Pro Tip: One of the best seats in the house is at the bar, which is reserved for walk-ins. Consider stopping in for lunch.\n\nYamada (Chinatown)\nReservations Drop: 20 days in advance, with two seating times at 5:30 and 8:30 p.m., Tuesday through Saturday.\nShould You Walk In? No.\nPro Tip: Don't overlook the beverage list; they have an incredible array of Japanese teas and update wine and sake pairings for each menu.\n\nI Cavallini (Williamsburg)\nReservations Drop: Two weeks in advance at 8 a.m.\nShould You Walk In? Yes, but space for walk-ins is limited. Come very early for your best shot.\nPro Tip: Come early if you plan to walk in — as early as 4:15 p.m. — since doors open at 5 p.m.",
+    "char_len": 686,
+    "word_len": 126,
+    "id": 5
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 6,
+    "text": "Come very early for your best shot.\nPro Tip: Come early if you plan to walk in — as early as 4:15 p.m. — since doors open at 5 p.m.\n\nBong (Crown Heights)\nReservations Drop: Three weeks in advance at midnight.\nShould You Walk In? Because the space is so small, your odds are lower, but they recently opened a walk-ins-only counter, and the patio is open for walk-ins in good weather.\nPro Tip: If you attempt to walk in, arrive right when they open at 5:30 p.m., or stop by at 7 or 9 p.m.",
+    "char_len": 486,
+    "word_len": 96,
+    "id": 6
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 7,
+    "text": "Pro Tip: If you attempt to walk in, arrive right when they open at 5:30 p.m., or stop by at 7 or 9 p.m.\n\nRubirosa (NoLita)\nReservations Drop: Limited reservations seven days in advance for parties of up to seven, starting at midnight. Whatever is still available gets dropped at 11 a.m. the next day.\nShould You Walk In? Walk-ins are often quoted waits of 45 minutes, sometimes more than two hours, but they'll get you in. Half the restaurant is saved for walk-ins.\nPro Tip: Pop by in the morning to see what's available a few days out, or put your name on the waitlist an hour or two before you plan to dine.\n\nLei (Chinatown)\nReservations Drop: Two weeks out at 9 a.m.\nShould You Walk In? Absolutely. They save most of the room for walk-ins. The space is small, so arrive when they open at 5 p.m. or after 10 p.m.",
+    "char_len": 814,
+    "word_len": 154,
+    "id": 7
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 8,
+    "text": "Should You Walk In? Absolutely. They save most of the room for walk-ins. The space is small, so arrive when they open at 5 p.m. or after 10 p.m.\n\nBridges (Chinatown)\nReservations Drop: 21 days in advance at noon.\nShould You Walk In? Yes. The bar and bar booths are often saved for walk-ins and serve the full menu. Your best bet is to show up at 5:30 p.m.\n\nMonkey Bar (Midtown East)\nReservations Drop: 21 days in advance at 9 a.m.\nShould You Walk In? You can. The bar area has a few tables saved for that, and the bar itself is all first come, first served. Get there at open or mid-afternoon for lunch.",
+    "char_len": 603,
+    "word_len": 116,
+    "id": 8
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 9,
+    "text": "The bar area has a few tables saved for that, and the bar itself is all first come, first served. Get there at open or mid-afternoon for lunch.\n\nBemelmans Bar (Upper East Side)\nReservations Drop: Two months in advance.\nShould You Walk In? You can try, but be prepared to wait in line for an hour or two. The number of reservations is limited, so this may be your best shot.\nPro Tip: Make a dinner reservation for Dowling's at The Carlyle and put your name on the waitlist for a nightcap over at Bemelmans.\n\nL'Artusi (West Village)\nReservations Drop: 14 days out at 9 a.m. It is one of Resy's most notified restaurants in all of New York City.\nShould You Walk In? Yes, but try to stop by when doors open at 5 p.m.\nPro Tip: Getting to know the staff and establishing a relationship might be your best bet. If dinner is tough, try lunch.",
+    "char_len": 834,
+    "word_len": 158,
+    "id": 9
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 10,
+    "text": "Pro Tip: Getting to know the staff and establishing a relationship might be your best bet. If dinner is tough, try lunch.\n\nLe Chene (West Village)\nReservations Drop: Two weeks out at 9 a.m.\nShould You Walk In? Yes. They save the bar and a few tables for that. Get there before 6 p.m.\n\nThe Snail (Greenpoint)\nReservations Drop: Never, unless you're a group of seven to 10 — it's walk-ins only for smaller parties, but they use Resy for their waitlist. For larger groups, reservations drop two weeks in advance.\nShould You Walk In? Absolutely; that's all you can do. They're now open for weekend brunch too.",
+    "char_len": 605,
+    "word_len": 108,
+    "id": 10
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 11,
+    "text": "Should You Walk In? Absolutely; that's all you can do. They're now open for weekend brunch too.\n\nschmuck. (East Village)\nReservations Drop: Fourteen days out at 10 a.m. for everyone, with a few reserved for Resy's Global Dining Access program.\nShould You Walk In? Yes. They primarily take walk-ins for the main bar (the \"living room\"), or next door at The Kitchen Table, which is walk-ins only.\n\nGolden Diner (Chinatown/LES)\nReservations Drop: 30 days in advance at midnight, brunch included.\nShould You Walk In? Yes, but a line forms as early as 8 a.m. for weekend brunch.\nPro Tip: Don't put your phone down after adding your name to the waitlist; they text quickly when there's an opening.",
+    "char_len": 691,
+    "word_len": 118,
+    "id": 11
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 12,
+    "text": "for weekend brunch.\nPro Tip: Don't put your phone down after adding your name to the waitlist; they text quickly when there's an opening.\n\nHa's Snack Bar (Lower East Side)\nReservations Drop: Two weeks in advance at noon.\nShould You Walk In? Yes, but your best bet is to get there early (they open at 5:30 p.m.). They've recently made it easier to walk in.\nPro Tip: It never hurts to stop by and ask for a future reservation for a party of two in person.\n\nLe Cafe Louis Vuitton (Midtown East)\nReservations Drop: 28 days in advance at midnight.\nShould You Walk In? Yes. Stop by early for breakfast and lunch by grabbing one of the six seats at the bar.",
+    "char_len": 650,
+    "word_len": 122,
+    "id": 12
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 13,
+    "text": "Should You Walk In? Yes. Stop by early for breakfast and lunch by grabbing one of the six seats at the bar.\n\nCOQODAQ (Flatiron)\nReservations Drop: 14 days in advance at 10 a.m.\nShould You Walk In? Yes; outdoor patio, barstools, and communal high-tops are available for walk-ins and you can order the full menu. Arrive before 5 p.m. or swing by around 9 p.m.\nPro Tip: Check in with the on-site maitre d' to get on the waitlist, or contact the reservations team by phone or email from 10 a.m. to 10 p.m.\n\nRaoul's (Soho)\nReservations Drop: 30 days ahead at 8 a.m.\nShould You Walk In? Yes. The eight bar seats are reserved for walk-ins. Show up around 4:30 p.m. before they open at 5 p.m., or later, closer to 10:30 p.m.",
+    "char_len": 716,
+    "word_len": 134,
+    "id": 13
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 14,
+    "text": "Yes. The eight bar seats are reserved for walk-ins. Show up around 4:30 p.m. before they open at 5 p.m., or later, closer to 10:30 p.m.\n\nBorgo (Flatiron)\nReservations Drop: 21 days in advance at 10 a.m.\nPro Tip: Walking in on the earlier side is preferable. Can't get a dinner table? Stop by for lunch from 11:30 a.m. until 2:30 p.m.\n\nBungalow (East Village)\nReservations Drop: 20 days in advance at 11 a.m., except Tuesdays.\nShould You Walk In? Get there right when they open at 5 p.m. for a chance at a table. The bar is first come, first served and serves the full menu.",
+    "char_len": 573,
+    "word_len": 107,
+    "id": 14
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 15,
+    "text": "Should You Walk In? Get there right when they open at 5 p.m. for a chance at a table. The bar is first come, first served and serves the full menu.\n\nTatiana, by Kwame Onwuachi (Lincoln Center)\nReservations Drop: 28 days in advance at 12 noon.\nShould You Walk In? Bar seats and an outdoor dining area (when weather cooperates) are held for walk-ins (at the bar, only for parties up to two), and you can add yourself to a waitlist. Showing up right at 5 p.m. is recommended.\nPro Tip: Come dressed to impress. You can also try calling or emailing for help with a reservation.\n\nPenny (East Village)\nReservations Drop: 14 days out at 9 a.m., but know it's a limited number of reservations.\nShould You Walk In? Yes. In fact, they prefer it. The majority of seats are held open for walk-ins and it's first come, first served.",
+    "char_len": 818,
+    "word_len": 151,
+    "id": 15
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 16,
+    "text": "Should You Walk In? Yes. In fact, they prefer it. The majority of seats are held open for walk-ins and it's first come, first served.\n\nTheodora (Fort Greene)\nReservations Drop: 30 days in advance at 9 a.m.\nShould You Walk In? Yes, but arrive before they open at 5 p.m., or swing by around 9 p.m. They reserve full-service bar seats for walk-ins.\n\nThe Coop at Double Chicken Please (Lower East Side)\nReservations Drop: Six days out at midnight.\nShould You Walk In? Yes, but get there before 5 p.m. for a spot at The Coop (back room) or the bar in front. 80% of The Coop is first come, first served.\nPro Tip: This spot doesn't use the Resy Notify feature, so your best bet to get in without a reservation is to wait in line.",
+    "char_len": 722,
+    "word_len": 137,
+    "id": 16
+  },
+  {
+    "source": "01_resy_toughest_reservations_nyc.txt",
+    "chunk_index": 17,
+    "text": "Pro Tip: This spot doesn't use the Resy Notify feature, so your best bet to get in without a reservation is to wait in line.\n\nBangkok Supper Club (Meatpacking District)\nReservations Drop: 28 days in advance at midnight.\nShould You Walk In? Yes. They hold a quarter of the dining room and the entire 11-seat bar for walk-ins.\n\nLilia (Williamsburg)\nReservations Drop: 28 days in advance at 10 a.m.\nShould You Walk In? Yes, but best right at 5 p.m. on weekdays and 4 p.m. on weekends when the restaurant opens.\nPro Tip: Call the restaurant between 10 a.m. and 4 p.m. to speak to a reservationist, and stay close to your phone for Resy Notify notifications, usually around 2 p.m. on your desired dining day.",
+    "char_len": 703,
+    "word_len": 126,
+    "id": 17
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 0,
+    "text": "The Toughest Reservations In NYC Right Now (And How To Get Them)\nSource: The Infatuation — New York (https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc)\n\nThis guide tracks the hardest tables in New York and the specific tactics that actually work for each one — when reservations are released, which platform they live on, and whether walk-ins are realistic.\n\nDean's\nHow To Get In: Dean's releases reservations two weeks in advance at 9am. Keep in mind, all eight bar seats and most of the tables are saved for walk-ins. On a recent Wednesday at 6pm, we were quoted a one-hour wait for a table for two.",
+    "char_len": 635,
+    "word_len": 100,
+    "id": 18
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 1,
+    "text": "On a recent Wednesday at 6pm, we were quoted a one-hour wait for a table for two.\n\nTascha\nHow To Get In: Tascha releases Thursday (and sometimes Friday) reservations one week in advance, and you can only book via text or Instagram DM. In our experience, the DM route is more effective. It's a long shot, but you can also try walking in. It worked for us once.\n\nMarcel\nHow To Get In: Reservations for Marcel are released 28 days in advance. All of the bar seats are saved for walk-ins, and they serve the full menu at the bar.\n\nOdo East Village\nHow To Get In: Odo East Village only has 14 seats, all at a counter, and reservations for those seats are released 30 days out at midnight. Walk-ins are technically accepted, but don't count on getting in that way. We came at 6pm on a Friday as a party of two and were told there was no availability. (It may be easier if you're a party of one.)",
+    "char_len": 889,
+    "word_len": 171,
+    "id": 19
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 2,
+    "text": "We came at 6pm on a Friday as a party of two and were told there was no availability. (It may be easier if you're a party of one.)\n\nA Midtown spot booked through DoorDash\nHow To Get In: Reservations are released on DoorDash seven days in advance. The restaurant does accept limited walk-ins, and if that's the route you're going, line up outside by 4pm at the latest. Around 4:25pm, a host will start taking names, and they'll send you a text if a table or bar seat becomes available.\n\nAmbassadors Clubhouse\nHow To Get In: For now, Ambassadors Clubhouse releases reservations two weeks in advance. Eventually, it'll be four weeks. Walk-ins are accepted, but there don't seem to be many slots. According to a host, if you want to eat here without a reservation, your odds improve the later it gets.",
+    "char_len": 797,
+    "word_len": 143,
+    "id": 20
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 3,
+    "text": "According to a host, if you want to eat here without a reservation, your odds improve the later it gets.\n\nBistrot Ha\nHow To Get In: Bistrot Ha releases reservations six days in advance at midnight. The place does take walk-ins, and the line outside tends to start forming around 4:45pm. On a recent Thursday at 9:30pm, the wait for bar seats was around four hours. So be sure to come early.\n\nRamen By Ra\nHow To Get In: Ramen By Ra doesn't take walk-ins. Reservations are required, and they're released in two-week blocks on the 1st and 15th of the month at 9am. (To eat on the 20th, you'll have to reserve on the 1st.) In our experience, it's not hard to snag a seat as long as you're online at exactly 9am. You can also stop by for takeaway broth or a breakfast bao in the morning.",
+    "char_len": 782,
+    "word_len": 149,
+    "id": 21
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 4,
+    "text": "You can also stop by for takeaway broth or a breakfast bao in the morning.\n\nSushi Sho\nHow To Get In: Sushi Sho allows you to book two months in advance, with new reservations released on the first of the month at 11am. In other words, if you want a seat in January, stay glued to the reservations page on December 1.\n\nSemma\nHow To Get In: Reservations are released online two weeks in advance. There aren't any tables saved for walk-ins, but there are 12 seats at the bar, so you can always try your luck there.\n\nThe Eighty Six\nHow To Get In: Reservations for The Eighty Six are released two weeks in advance. According to the restaurant, two to four walk-ins are accepted at the bar every night, but we've seen them seat as many as six at opening. If you want to eat here, arrive no later than 4:30pm.",
+    "char_len": 802,
+    "word_len": 153,
+    "id": 22
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 5,
+    "text": "If you want to eat here, arrive no later than 4:30pm.\n\nA see-and-be-seen spot\nHow To Get In: Reservations are released online two weeks in advance, but if you can't snag one, they do take walk-ins at the bar. When we came at 4:50pm on a Wednesday, there were around eight walk-ins ahead of us in line, and we all got seated at 5pm when the restaurant opened. If it's a weekend, get here by 4:30pm.\n\nBong\nHow To Get In: Bong releases reservations 20 days in advance at midnight. If you're in the area, you can try walking in — they have extra outdoor tables when it's warm — but officially they're reservation-only.",
+    "char_len": 614,
+    "word_len": 114,
+    "id": 23
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 6,
+    "text": "If you're in the area, you can try walking in — they have extra outdoor tables when it's warm — but officially they're reservation-only.\n\nI Cavallini\nHow To Get In: I Cavallini releases reservations two weeks in advance at 8am. All of the bar and counter seats are saved for walk-ins, and you can also get a walk-in table during the first seating. The trick is to line up outside no later than 4:30pm. When the place opens at 5pm, you should be seated right away.\n\nUna Pizza Napoletana\nHow To Get In: Una Pizza Napoletana is open Thursday through Saturday, and they release reservations two weeks in advance at 9am. Walk-ins are only accepted for drinks and dessert.",
+    "char_len": 666,
+    "word_len": 119,
+    "id": 24
+  },
+  {
+    "source": "02_infatuation_toughest_reservations.txt",
+    "chunk_index": 7,
+    "text": "Walk-ins are only accepted for drinks and dessert.\n\nGeneral tactics from this guide: be online at the exact release time down to the minute; learn which platform each restaurant uses (Resy, Tock, DoorDash, SevenRooms, OpenTable, or direct text/DM); and treat bar seats and early walk-in lines as a parallel path when reservations are gone.",
+    "char_len": 339,
+    "word_len": 54,
+    "id": 25
+  },
+  {
+    "source": "03_resy_notify_how_it_works.txt",
+    "chunk_index": 0,
+    "text": "What Is Notify and How Does It Work?\nSource: Resy Help Desk (https://helpdesk.resy.com/what-is-notify-and-how-does-it-work-BJrJzPQLu)\n\nNotify is Resy's modern waitlist, designed to turn cancellations into new booking opportunities. When a restaurant is fully booked for the day and time you want, you don't have to keep refreshing the reservations page. Instead, you add yourself to Notify and let Resy watch for openings on your behalf.\n\nHow it works: You select the restaurant, date, party size, and the time range you'd like, then turn on Notify for that slot. If another guest cancels or the restaurant releases additional inventory, Resy sends you an alert through the app or by email letting you know a table has opened up. When that notification goes out, you can claim the reservation and book it right away.",
+    "char_len": 816,
+    "word_len": 130,
+    "id": 26
+  },
+  {
+    "source": "03_resy_notify_how_it_works.txt",
+    "chunk_index": 1,
+    "text": "When that notification goes out, you can claim the reservation and book it right away.\n\nImportant details to know:\n- Notify is not a guarantee of a table. Alerts go out when availability opens, and reservations can be claimed quickly, so you need to act fast when you get the notification.\n- You can set Notify on more than one date or time range to improve your odds for a hard-to-book restaurant.\n- Keep notifications enabled on your phone so you don't miss the alert. For very popular restaurants, openings can be claimed within minutes.\n- Some restaurants do not participate in Notify. For those, your best route to a last-minute seat is the in-person waitlist or walking in.",
+    "char_len": 679,
+    "word_len": 119,
+    "id": 27
+  },
+  {
+    "source": "03_resy_notify_how_it_works.txt",
+    "chunk_index": 2,
+    "text": "- Some restaurants do not participate in Notify. For those, your best route to a last-minute seat is the in-person waitlist or walking in.\n\nNotify is most useful for restaurants where reservations sell out the moment they drop. Setting Notify lets you catch the steady trickle of cancellations that happen as a reservation date approaches, which is often easier than competing for the initial drop.",
+    "char_len": 398,
+    "word_len": 65,
+    "id": 28
+  },
+  {
+    "source": "04_resy_reservation_fraud.txt",
+    "chunk_index": 0,
+    "text": "What Restaurant Operators Wish You Knew About Reservation Fraud\nSource: Resy — Right This Way blog, For Restaurants (https://blog.resy.com/for-restaurants/restaurant-reservation-fraud/)\n\nReservation fraud is when bots and unauthorized third-party resellers grab hard-to-get reservations the moment they drop, then resell them or let them go unused. These reservations often turn into no-shows and late cancellations, which means lost revenue for restaurants and fewer real tables for ordinary diners. When a broker scoops up a block of prime Friday-night slots and can't sell them all, those seats can sit empty while genuine guests are turned away.",
+    "char_len": 649,
+    "word_len": 92,
+    "id": 29
+  },
+  {
+    "source": "04_resy_reservation_fraud.txt",
+    "chunk_index": 1,
+    "text": "When a broker scoops up a block of prime Friday-night slots and can't sell them all, those seats can sit empty while genuine guests are turned away.\n\nTo fight this, Resy deployed a patent-pending machine learning model that identifies platform misuse and fraudulent booking behavior. Combined with the passing of the New York Restaurant Reservation Anti-Piracy Act, Resy reported a 90% reduction in no-shows caused by bots and brokers from the second quarter of 2024 to the second quarter of 2025.\n\nResy's platform security tools actively detect behavior that violates the Terms of Service. When misuse is detected, Resy takes measures including deactivating accounts and canceling the reservations of users who violate the guidelines. In practice, this means accounts created or operated by bots and resellers can lose their reservations and access.",
+    "char_len": 850,
+    "word_len": 132,
+    "id": 30
+  },
+  {
+    "source": "04_resy_reservation_fraud.txt",
+    "chunk_index": 2,
+    "text": "In practice, this means accounts created or operated by bots and resellers can lose their reservations and access.\n\nWhat this means for diners: using third-party bots or buying a reservation from an unauthorized reseller carries real risk. The reservation can be canceled, and the account can be deactivated. The most reliable strategy remains booking directly when reservations drop, setting Notify for cancellations, and using the restaurant's official waitlist or walk-in options.",
+    "char_len": 483,
+    "word_len": 71,
+    "id": 31
+  },
+  {
+    "source": "05_github_resy_booking_bot.txt",
+    "chunk_index": 0,
+    "text": "resy-booking-bot (open-source reservation automation)\nSource: Alkaar/resy-booking-bot on GitHub (https://github.com/Alkaar/resy-booking-bot)\n\nresy-booking-bot is an open-source tool that helps users automatically book, or \"snipe,\" hard-to-get reservations at restaurants that use Resy. The project illustrates how automated booking works and why restaurants treat bots as a problem.",
+    "char_len": 382,
+    "word_len": 43,
+    "id": 32
+  },
+  {
+    "source": "05_github_resy_booking_bot.txt",
+    "chunk_index": 1,
+    "text": "The project illustrates how automated booking works and why restaurants treat bots as a problem.\n\nThe core idea: popular restaurants release reservations on a fixed schedule (for example, exactly 14 or 28 days in advance at midnight). A human competing for those slots has to be awake, online, and fast. A booking bot is configured ahead of time with the target restaurant (its venue ID), the desired date, party size, and preferred seating times in priority order. The bot authenticates with the user's own Resy account credentials and an API token. At the exact moment reservations drop, the bot fires requests to find the matching slot and book it automatically, far faster than a person tapping through the app.",
+    "char_len": 715,
+    "word_len": 119,
+    "id": 33
+  },
+  {
+    "source": "05_github_resy_booking_bot.txt",
+    "chunk_index": 2,
+    "text": "oment reservations drop, the bot fires requests to find the matching slot and book it automatically, far faster than a person tapping through the app.\n\nTypical configuration values a user supplies include: the Resy API key and authentication token from their account, the venue ID of the restaurant, the reservation date, the number of seats, a snipe time (the moment the booking window opens), and a ranked list of acceptable reservation times so the bot grabs the best available option.",
+    "char_len": 488,
+    "word_len": 80,
+    "id": 34
+  },
+  {
+    "source": "05_github_resy_booking_bot.txt",
+    "chunk_index": 3,
+    "text": "ats, a snipe time (the moment the booking window opens), and a ranked list of acceptable reservation times so the bot grabs the best available option.\n\nThe repository includes disclaimers that using such automation may violate Resy's Terms of Service. This matters because platforms like Resy actively detect and penalize bot activity — deactivating accounts and canceling reservations made through unauthorized automation. The takeaway for understanding the domain: bots exist and explain why prime reservations vanish in seconds, but relying on them is risky for your account and is increasingly countered by machine-learning fraud detection and new anti-piracy laws.",
+    "char_len": 669,
+    "word_len": 99,
+    "id": 35
+  },
+  {
+    "source": "06_appointment_trader_marketplace.txt",
+    "chunk_index": 0,
+    "text": "Appointment Trader: The Secondary Market for Restaurant Reservations\nSource: Appointment Trader (https://appointmenttrader.com/)\n\nAppointment Trader is a marketplace where people buy and sell coveted restaurant reservations. Instead of competing for a table when it drops, a buyer can pay to claim a reservation that someone else booked. The cost of the reservation is on top of what you'll spend on food and drinks, and at New York's most in-demand restaurants that premium can easily run into the hundreds of dollars.",
+    "char_len": 519,
+    "word_len": 79,
+    "id": 36
+  },
+  {
+    "source": "06_appointment_trader_marketplace.txt",
+    "chunk_index": 1,
+    "text": "on top of what you'll spend on food and drinks, and at New York's most in-demand restaurants that premium can easily run into the hundreds of dollars.\n\nHow it works: sellers — the platform has reported around 15,000 of them — book or hold the best reservations and then list them on Appointment Trader. Buyers place bids, and the higher the demand for a given restaurant, date, and time, the higher the final price. Reservations at buzzy spots like 4 Charles Prime Rib, Don Angie, and Carbone have been among the most sought-after listings.",
+    "char_len": 540,
+    "word_len": 94,
+    "id": 37
+  },
+  {
+    "source": "06_appointment_trader_marketplace.txt",
+    "chunk_index": 2,
+    "text": "Reservations at buzzy spots like 4 Charles Prime Rib, Don Angie, and Carbone have been among the most sought-after listings.\n\nOrigin and scale: the platform was created by Jonas Frey, who has said the idea came after a frustrating day at the DMV, when he wondered why he couldn't simply pay to get an appointment. He launched Appointment Trader in 2021. The company has reported selling several million dollars' worth of reservations in a single year, with buyers spending tens of thousands of dollars a day during peak periods.",
+    "char_len": 528,
+    "word_len": 89,
+    "id": 38
+  },
+  {
+    "source": "06_appointment_trader_marketplace.txt",
+    "chunk_index": 3,
+    "text": "selling several million dollars' worth of reservations in a single year, with buyers spending tens of thousands of dollars a day during peak periods.\n\nWhy it matters for getting hard reservations: the resale market is one reason prime tables disappear instantly — some are claimed specifically to be resold. It also raises cost and legal questions. New York moved to ban unauthorized reservation resale, which directly affects platforms like this one. Anyone considering buying a reservation should weigh the markup, the risk that a restaurant or booking platform cancels a resold reservation, and the changing legal status of the practice.",
+    "char_len": 640,
+    "word_len": 100,
+    "id": 39
+  },
+  {
+    "source": "07_nbc_reservations_sell_for_hundreds.txt",
+    "chunk_index": 0,
+    "text": "Reservations at Top New York City Restaurants Are Selling for Hundreds of Dollars\nSource: NBC News (https://www.nbcnews.com/news/us-news/reservations-top-new-york-city-restaurants-are-selling-hundreds-dollar-rcna151702)\n\nAt the hardest-to-book restaurants in New York City, a reservation itself has become a product with a price. On secondary marketplaces, diners pay a premium — frequently hundreds of dollars — just to claim a table, before spending a cent on the actual meal. The phenomenon has turned scarce reservations into a tradable asset.",
+    "char_len": 547,
+    "word_len": 71,
+    "id": 40
+  },
+  {
+    "source": "07_nbc_reservations_sell_for_hundreds.txt",
+    "chunk_index": 1,
+    "text": "The phenomenon has turned scarce reservations into a tradable asset.\n\nThe mechanics behind it: a class of sellers uses early access, multiple accounts, and in some cases automated bots to grab prime reservations the instant they are released. Those reservations are then listed for resale, and buyers bid against each other. Restaurants that consistently command high resale prices include marquee names where demand vastly outstrips the number of seats.\n\nThe downside for restaurants and ordinary diners: when reservations are hoarded for resale, genuine guests are shut out, and unsold resale inventory can become last-minute cancellations or no-shows that leave tables empty. Restaurateurs argue this damages both their revenue and their relationship with regular customers, since the people who most want to dine there can't get in without paying a middleman.",
+    "char_len": 863,
+    "word_len": 130,
+    "id": 41
+  },
+  {
+    "source": "07_nbc_reservations_sell_for_hundreds.txt",
+    "chunk_index": 2,
+    "text": "oth their revenue and their relationship with regular customers, since the people who most want to dine there can't get in without paying a middleman.\n\nThe reporting highlights the tension that prompted regulatory action: reservations are free to make but increasingly impossible to get at face value, which created the opening for a paid resale economy — and the backlash that followed, including legislative efforts to ban the practice in New York.",
+    "char_len": 450,
+    "word_len": 72,
+    "id": 42
+  },
+  {
+    "source": "08_ny_reservation_resale_law.txt",
+    "chunk_index": 0,
+    "text": "New York Banned Reservation Resales — and a Platform Is Testing the Law\nSource: Columbia News Service (https://columbianewsservice.com/2025/07/28/new-york-banned-reservation-resales-now-appointment-trader-is-testing-the-law-with-ai/)\n\nNew York passed the Restaurant Reservation Anti-Piracy Act, which targets the unauthorized resale of restaurant reservations. The law is designed to stop third parties from booking reservations purely to sell them, a practice restaurants blamed for hoarded tables, inflated prices, and empty seats from no-shows. Under the law, selling reservations without an agreement with the restaurant is prohibited, and platforms that facilitate such sales face legal exposure.",
+    "char_len": 701,
+    "word_len": 85,
+    "id": 43
+  },
+  {
+    "source": "08_ny_reservation_resale_law.txt",
+    "chunk_index": 1,
+    "text": "er the law, selling reservations without an agreement with the restaurant is prohibited, and platforms that facilitate such sales face legal exposure.\n\nImpact on the secondary market: when the law took effect, resale platforms operating in New York were forced to change or shut down their New York activity. Appointment Trader, the best-known reservation reseller, was affected directly. Rather than exit, the platform signaled plans to relaunch in New York with an artificial-intelligence-driven chat interface, effectively testing how the new law applies to a redesigned product.",
+    "char_len": 582,
+    "word_len": 86,
+    "id": 44
+  },
+  {
+    "source": "08_ny_reservation_resale_law.txt",
+    "chunk_index": 2,
+    "text": "ns to relaunch in New York with an artificial-intelligence-driven chat interface, effectively testing how the new law applies to a redesigned product.\n\nWhy it matters for diners trying to get hard reservations: the legal landscape is actively shifting. Buying a resold reservation in New York now carries the risk that the transaction is unlawful, that the reservation is canceled, or that the platform itself is operating in a legal gray area. Combined with booking platforms' own anti-bot enforcement, the law pushes diners back toward legitimate channels — booking directly at the drop, using official waitlist and Notify features, and walking in — as the durable ways to get a table.",
+    "char_len": 687,
+    "word_len": 110,
+    "id": 45
+  },
+  {
+    "source": "08_ny_reservation_resale_law.txt",
+    "chunk_index": 3,
+    "text": "legitimate channels — booking directly at the drop, using official waitlist and Notify features, and walking in — as the durable ways to get a table.\n\nThe broader story is a cat-and-mouse dynamic: as restaurants and regulators close one avenue for gaming reservations, resellers and technologists look for new ones, including AI tools that try to stay within the letter of the law.",
+    "char_len": 381,
+    "word_len": 63,
+    "id": 46
+  },
+  {
+    "source": "09_reddit_foodnyc_tips.txt",
+    "chunk_index": 0,
+    "text": "Community Reservation Tips — r/FoodNYC\nSource: r/FoodNYC subreddit (https://www.reddit.com/r/FoodNYC/)\nNote: This document summarizes recurring, commonly shared advice from the r/FoodNYC community. It paraphrases the kinds of tips that come up repeatedly in threads about scoring hard reservations, rather than quoting individual posts.\n\nQuestion: How do people actually get into the impossible-to-book spots?\nCommon answers from the community: Know the exact drop schedule for your target restaurant. Most use a fixed window — commonly 14, 28, or 30 days in advance — and the slots vanish within seconds at the drop time, which is often midnight or a set morning hour. Be logged in, on the app, with your card saved and party size pre-selected, and refresh at the exact minute. Set two alarms so you don't forget.",
+    "char_len": 814,
+    "word_len": 127,
+    "id": 47
+  },
+  {
+    "source": "09_reddit_foodnyc_tips.txt",
+    "chunk_index": 1,
+    "text": "Be logged in, on the app, with your card saved and party size pre-selected, and refresh at the exact minute. Set two alarms so you don't forget.\n\nQuestion: I missed the drop. Is it hopeless?\nCommunity consensus: No. Cancellations are the secret weapon. Turn on Resy Notify (or the platform's equivalent waitlist) for the exact date and time, and set it for multiple time ranges. People regularly report catching a table a few days out, or even same-day around late afternoon, because others cancel. Checking the app at off-hours — early morning and around 2 to 4 p.m. — surfaces released and canceled slots.",
+    "char_len": 607,
+    "word_len": 104,
+    "id": 48
+  },
+  {
+    "source": "09_reddit_foodnyc_tips.txt",
+    "chunk_index": 2,
+    "text": "Checking the app at off-hours — early morning and around 2 to 4 p.m. — surfaces released and canceled slots.\n\nQuestion: Walk-ins — worth it?\nFrequent advice: For a lot of NYC's hot restaurants, bar seats and a portion of tables are held for walk-ins and are first come, first served. Show up before the doors open (often 4:30 to 5 p.m.), or go very late. The bar usually serves the full menu, so it's not a consolation prize. Solo diners and parties of two have much better walk-in odds than larger groups.",
+    "char_len": 506,
+    "word_len": 93,
+    "id": 49
+  },
+  {
+    "source": "09_reddit_foodnyc_tips.txt",
+    "chunk_index": 3,
+    "text": "Solo diners and parties of two have much better walk-in odds than larger groups.\n\nQuestion: What about buying a reservation or using a bot?\nCommunity caution: People warn against paying resellers or running bots. Booking platforms cancel reservations flagged as bot-made and can deactivate your account, and New York has moved to ban unauthorized reservation resale. The repeated advice is to play it straight: drop time, Notify, waitlist, walk-in, and being friendly with the host.\n\nOther tips that come up often: call or email the restaurant directly and ask politely about future availability; book lunch instead of dinner when dinner is impossible; build a rapport with the staff as a regular; and consider the slightly-less-hyped sibling restaurant from the same team, which is usually far easier to book.",
+    "char_len": 810,
+    "word_len": 128,
+    "id": 50
+  },
+  {
+    "source": "10_reddit_finedining_tips.txt",
+    "chunk_index": 0,
+    "text": "Community Reservation Tips — r/finedining\nSource: r/finedining subreddit (https://www.reddit.com/r/finedining/)\nNote: This document summarizes recurring, commonly shared advice from the r/finedining community about booking high-end and tasting-menu restaurants. It paraphrases patterns of advice rather than quoting individual posts.\n\nBooking tasting-menu counters: For tiny, counter-only restaurants (often 12 to 16 seats), reservations typically release on the first of the month for the entire following month, or on a fixed multi-week window. The community's advice is to mark the release date and time on your calendar and be on the booking page the moment it opens. For these rooms, walk-ins are usually pointless because every seat is spoken for.",
+    "char_len": 753,
+    "word_len": 106,
+    "id": 51
+  },
+  {
+    "source": "10_reddit_finedining_tips.txt",
+    "chunk_index": 1,
+    "text": "For these rooms, walk-ins are usually pointless because every seat is spoken for.\n\nPlatforms matter: High-end spots are split across Resy, Tock, SevenRooms, and OpenTable, and some use prepaid ticketing (especially on Tock) where you pay for the meal up front at the time of booking. Members recommend creating accounts on all of them in advance, saving payment details, and knowing which platform your target uses before the drop so you're not fumbling.\n\nCancellation strategy: Because tasting menus are expensive and plans change, cancellation churn is real. Community members keep waitlist/Notify alerts on and check repeatedly in the final 48 hours before a desired date. Prepaid-ticket restaurants sometimes have a resale or transfer queue where released tickets reappear — watching that queue is a known way in.",
+    "char_len": 817,
+    "word_len": 127,
+    "id": 52
+  },
+  {
+    "source": "10_reddit_finedining_tips.txt",
+    "chunk_index": 2,
+    "text": "Prepaid-ticket restaurants sometimes have a resale or transfer queue where released tickets reappear — watching that queue is a known way in.\n\nEtiquette and relationships: A recurring theme is that fine-dining rooms reward genuine guests. Being gracious with the reservations team, honoring your bookings, and not no-showing builds goodwill. Some members report that emailing the restaurant directly with flexible dates, or asking to be seated at the bar/counter for à la carte where offered, opens doors that the online system doesn't show.",
+    "char_len": 541,
+    "word_len": 82,
+    "id": 53
+  },
+  {
+    "source": "10_reddit_finedining_tips.txt",
+    "chunk_index": 3,
+    "text": "directly with flexible dates, or asking to be seated at the bar/counter for à la carte where offered, opens doors that the online system doesn't show.\n\nOn bots and resellers: The fine-dining community broadly discourages reservation brokers and bots — both because platforms cancel flagged reservations and deactivate accounts, and because hoarding tables hurts the restaurants people care about. With New York's anti-piracy law in effect, the durable approach is patience: drop-time discipline, multi-platform readiness, cancellation watching, and a good relationship with the house.",
+    "char_len": 584,
+    "word_len": 84,
+    "id": 54
+  }
+]

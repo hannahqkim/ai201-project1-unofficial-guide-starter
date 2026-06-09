@@ -1,0 +1,10 @@
+resy-booking-bot (open-source reservation automation)
+Source: Alkaar/resy-booking-bot on GitHub (https://github.com/Alkaar/resy-booking-bot)
+
+resy-booking-bot is an open-source tool that helps users automatically book, or "snipe," hard-to-get reservations at restaurants that use Resy. The project illustrates how automated booking works and why restaurants treat bots as a problem.
+
+The core idea: popular restaurants release reservations on a fixed schedule (for example, exactly 14 or 28 days in advance at midnight). A human competing for those slots has to be awake, online, and fast. A booking bot is configured ahead of time with the target restaurant (its venue ID), the desired date, party size, and preferred seating times in priority order. The bot authenticates with the user's own Resy account credentials and an API token. At the exact moment reservations drop, the bot fires requests to find the matching slot and book it automatically, far faster than a person tapping through the app.
+
+Typical configuration values a user supplies include: the Resy API key and authentication token from their account, the venue ID of the restaurant, the reservation date, the number of seats, a snipe time (the moment the booking window opens), and a ranked list of acceptable reservation times so the bot grabs the best available option.
+
+The repository includes disclaimers that using such automation may violate Resy's Terms of Service. This matters because platforms like Resy actively detect and penalize bot activity — deactivating accounts and canceling reservations made through unauthorized automation. The takeaway for understanding the domain: bots exist and explain why prime reservations vanish in seconds, but relying on them is risky for your account and is increasingly countered by machine-learning fraud detection and new anti-piracy laws.

@@ -1,0 +1,10 @@
+New York Banned Reservation Resales — and a Platform Is Testing the Law
+Source: Columbia News Service (https://columbianewsservice.com/2025/07/28/new-york-banned-reservation-resales-now-appointment-trader-is-testing-the-law-with-ai/)
+
+New York passed the Restaurant Reservation Anti-Piracy Act, which targets the unauthorized resale of restaurant reservations. The law is designed to stop third parties from booking reservations purely to sell them, a practice restaurants blamed for hoarded tables, inflated prices, and empty seats from no-shows. Under the law, selling reservations without an agreement with the restaurant is prohibited, and platforms that facilitate such sales face legal exposure.
+
+Impact on the secondary market: when the law took effect, resale platforms operating in New York were forced to change or shut down their New York activity. Appointment Trader, the best-known reservation reseller, was affected directly. Rather than exit, the platform signaled plans to relaunch in New York with an artificial-intelligence-driven chat interface, effectively testing how the new law applies to a redesigned product.
+
+Why it matters for diners trying to get hard reservations: the legal landscape is actively shifting. Buying a resold reservation in New York now carries the risk that the transaction is unlawful, that the reservation is canceled, or that the platform itself is operating in a legal gray area. Combined with booking platforms' own anti-bot enforcement, the law pushes diners back toward legitimate channels — booking directly at the drop, using official waitlist and Notify features, and walking in — as the durable ways to get a table.
+
+The broader story is a cat-and-mouse dynamic: as restaurants and regulators close one avenue for gaming reservations, resellers and technologists look for new ones, including AI tools that try to stay within the letter of the law.

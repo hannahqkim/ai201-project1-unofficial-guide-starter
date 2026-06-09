@@ -1,0 +1,10 @@
+What Restaurant Operators Wish You Knew About Reservation Fraud
+Source: Resy — Right This Way blog, For Restaurants (https://blog.resy.com/for-restaurants/restaurant-reservation-fraud/)
+
+Reservation fraud is when bots and unauthorized third-party resellers grab hard-to-get reservations the moment they drop, then resell them or let them go unused. These reservations often turn into no-shows and late cancellations, which means lost revenue for restaurants and fewer real tables for ordinary diners. When a broker scoops up a block of prime Friday-night slots and can't sell them all, those seats can sit empty while genuine guests are turned away.
+
+To fight this, Resy deployed a patent-pending machine learning model that identifies platform misuse and fraudulent booking behavior. Combined with the passing of the New York Restaurant Reservation Anti-Piracy Act, Resy reported a 90% reduction in no-shows caused by bots and brokers from the second quarter of 2024 to the second quarter of 2025.
+
+Resy's platform security tools actively detect behavior that violates the Terms of Service. When misuse is detected, Resy takes measures including deactivating accounts and canceling the reservations of users who violate the guidelines. In practice, this means accounts created or operated by bots and resellers can lose their reservations and access.
+
+What this means for diners: using third-party bots or buying a reservation from an unauthorized reseller carries real risk. The reservation can be canceled, and the account can be deactivated. The most reliable strategy remains booking directly when reservations drop, setting Notify for cancellations, and using the restaurant's official waitlist or walk-in options.

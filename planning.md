@@ -48,11 +48,15 @@ These ten span complementary subtopics: official platform strategy (1, 5, 7), in
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** ~500 tokens (≈2,000 characters)
+**Chunk size:** ~225 tokens (≈900 characters) — *revised down from ~500 tokens during Milestone 3 (see note below).*
 
-**Overlap:** ~75 tokens (≈15%)
+**Overlap:** ~40 tokens (≈150 characters, ~15%)
 
-**Reasoning:** The corpus is heterogeneous — long-form editorial guides (sources 1, 2), short Reddit posts and comment threads (3, 4), structured help docs (5), and technical READMEs (6). A single tip is usually self-contained in a few sentences ("Tatiana releases tables 28 days in advance at 12 noon; set multiple alarms"), so 500 tokens is large enough to keep a complete tip — restaurant name, timing, and the action — inside one chunk, but small enough that retrieval stays precise instead of dragging in unrelated paragraphs. The 15% overlap prevents a restaurant name in one chunk from being orphaned from the timing detail that follows it across a boundary. Preprocessing before chunking: strip HTML, navigation, ads, and boilerplate; split first on paragraph and heading boundaries, and only fall back to a fixed-size character split when a single block exceeds the limit. Short Reddit posts shorter than the chunk size are kept whole rather than padded.
+**Reasoning:** The corpus is heterogeneous — long-form editorial guides (sources 1, 2), short community-tip digests (3, 4), structured help docs (5), and a technical README (6). A single tip is self-contained in a few sentences ("Tatiana releases tables 28 days in advance at 12 noon; set multiple alarms"), and the two largest sources are *entry-structured*: one short block per restaurant. The chunk size is large enough to keep a complete entry — restaurant name, drop time, walk-in advice, and pro tip — inside one chunk, but small enough that retrieval stays precise instead of dragging in unrelated restaurants. The 15% overlap prevents a restaurant name in one chunk from being orphaned from the timing detail that follows it across a boundary. Preprocessing before chunking: unescape HTML entities, strip HTML tags and markdown image/link syntax, drop navigation/CTA/photo-credit/bare-URL boilerplate lines, and normalize whitespace; split first on paragraph boundaries, packing whole entries together, and only fall back to a fixed-size character split when a single block exceeds the limit. Short documents shorter than the chunk size are kept whole rather than padded.
+
+**Revision note (Milestone 3):** I first implemented the originally-specified ~500-token (~2,000-char) size and inspected the output. It produced only 20 chunks, and a single chunk merged ~7 different restaurants — the "too large / diluted" failure mode, where a query for one restaurant matches a chunk crowded with six others. Because the corpus is entry-structured rather than long-form prose, I reduced the size to ~900 chars so each chunk holds only 2–3 related entries. This raised the total to **55 chunks** (within the healthy 50–2,000 range), with each chunk self-contained.
+
+**Final chunk count:** 55 chunks across 10 documents (min 339 / avg 648 / max 889 characters; 0 empty).
 
 ---
 
