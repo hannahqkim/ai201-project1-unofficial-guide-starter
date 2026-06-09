@@ -7,7 +7,7 @@
 
 ---
 
-## Domain
+## Domain: NYC Dining
 
 <!-- What topic or category of knowledge does your system cover?
      Why is this knowledge valuable, and why is it hard to find through official channels?
