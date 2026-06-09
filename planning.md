@@ -87,7 +87,7 @@ These ten span complementary subtopics: official platform strategy (1, 5, 7), in
 |---|----------|-----------------|
 | 1 | How far in advance do reservations at Tatiana drop, and at what time of day? | 28 days in advance, released at 12 noon. |
 | 2 | What is Resy Notify and how does it help me get a sold-out table? | A modern waitlist: you set an alert for a sold-out day/time, and when a cancellation opens a slot, Resy pushes you a notification so you can claim and book it immediately. |
-| 3 | What walk-in strategy is recommended for Ha's Snack Bar? | Arrive around 4:45 p.m. before the 5:30 p.m. open to make the first bar seating; arriving after 5 p.m. or with more than a couple of people risks a multi-hour wait. |
+| 3 | What walk-in strategy is recommended for Ha's Snack Bar? | Get there early before the 5:30 p.m. open and use the bar/walk-in path. (Note: the corpus is ambiguous here — the specific "line up by 4:45 p.m." detail actually belongs to the sibling restaurant *Bistrot Ha*, not Ha's Snack Bar. See the README Failure Case Analysis.) |
 | 4 | Is it legal to buy a restaurant reservation on Appointment Trader in New York? | New York passed the Restaurant Reservation Anti-Piracy Act banning unauthorized reservation resale; the platform was shut down under the law and is attempting to relaunch with an AI interface to test it. |
 | 5 | If I can't get a table reservation, what's one tactic to still eat at a hard-to-book spot? | Go for bar seating, which is often first-come, first-served and usually lets you order the full menu — arrive at or just before opening time. |
 
