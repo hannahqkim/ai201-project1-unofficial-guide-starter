@@ -100,6 +100,47 @@ max 889 characters; 0 empty chunks). Distribution: 18 chunks from the Resy guide
 
 ---
 
+## Sample Chunks
+
+Five representative chunks from `chunks.json`, illustrating the range of sources and how the paragraph-aware chunker packages content.
+
+**Chunk 1** — `01_resy_toughest_reservations_nyc.txt`, chunk #1 (684 chars)
+> Kidilum (Flatiron District)
+> Reservations Drop: Two weeks in advance at 11 a.m.
+> Should You Walk In? Yes. They hold the full-service bar for just that.
+> Pro Tip: They don't have room for high chairs, so plan accordingly before dining with little ones.
+>
+> Ambassadors Clubhouse New York (NoMad)
+> Reservations Drop: Two weeks in advance at midnight, but know reservations fill up very quickly.
+> Should You Walk In? You can, but don't get your hopes up. Availability is very limited and even the bar is reservation only.
+> Pro Tip: To know when the next reservation drops happen, register for the Priority Access list on their website or Instagram.
+
+**Chunk 2** — `03_resy_notify_how_it_works.txt`, chunk #0 (826 chars)
+> What Is Notify and How Does It Work?
+> Source: Resy Help Desk
+>
+> Notify is Resy's modern waitlist, designed to turn cancellations into new booking opportunities. When a restaurant is fully booked for the day and time you want, you don't have to keep refreshing the app — you can set a Notify alert instead. When a cancellation opens a slot that matches your request (party size, date, time window), Resy sends you a push notification. At that point you can claim the reservation and book it right away.
+
+**Chunk 3** — `08_ny_reservation_resale_law.txt`, chunk #0 (870 chars)
+> New York Banned Reservation Resales — and a Platform Is Testing the Law
+> Source: Columbia News Service
+>
+> New York passed the Restaurant Reservation Anti-Piracy Act, which targets the unauthorized resale of restaurant reservations. Under the law, selling reservations without an agreement with the restaurant is prohibited, and platforms that facilitate such sales face legal exposure. When the law took effect, resale platforms operating in New York were forced to change or shut down their New York activity. Appointment Trader paused its New York listings and later relaunched with an AI-mediated interface it claims changes the legal character of the transaction.
+
+**Chunk 4** — `09_reddit_foodnyc_tips.txt`, chunk #2 (778 chars)
+> Checking the app at off-hours — early morning and around 2 to 4 p.m. — surfaces released and canceled slots.
+>
+> Question: Walk-ins — worth it?
+> Frequent advice: For a lot of NYC's hot restaurants, bar seats and a portion of tables are held for walk-ins and are first come, first served. Show up before the doors open (often 5–5:30 p.m. for dinner), especially for parties of 1–2. Lining up 20–30 minutes early is not unusual for the most popular spots. Solo diners and parties of two have much better walk-in odds than larger groups.
+
+**Chunk 5** — `05_github_resy_booking_bot.txt`, chunk #0 (648 chars)
+> Resy Booking Bot — GitHub (Alkaar/resy-booking-bot)
+> Source: https://github.com/Alkaar/resy-booking-bot
+>
+> This open-source Python script automates the process of snagging a Resy reservation by hitting the Resy API directly at a specified time. You configure the restaurant slug, party size, desired date, and the time at which the bot should attempt the booking; the script handles authentication, slot lookup, and the POST request to hold and confirm the reservation. The README recommends running it on a reliable internet connection at the exact moment reservations drop. Using automated tools violates Resy's Terms of Service.
+
+---
+
 ## Embedding Model
 
 **Model used:** `all-MiniLM-L6-v2` via `sentence-transformers` (384-dimensional),
@@ -189,6 +230,46 @@ and **Response accuracy** is the honest judgment.
 **Out-of-domain check (grounding):** asking something the corpus doesn't cover (e.g.
 "What's the best ramen in Tokyo?") returns *"I don't have enough information on
 that."* with no sources — the relevance gate refuses before the LLM is ever called.
+
+---
+
+## Query Interface
+
+The app is a **Gradio web UI** (`python app.py`, served at `http://localhost:7860`). It has:
+- A **question text box** with a placeholder prompt and five one-click example queries.
+- An **Ask button** (also triggered by pressing Enter).
+- An **Answer panel** showing the grounded response with inline source citations.
+- A **"Retrieved from" panel** listing the unique source filenames the answer was drawn from.
+
+No configuration or narration needed to demo it: click an example or type a question, press Ask, and read.
+
+### Sample Interaction Transcript
+
+**Input:** `What is Resy Notify and how does it help me get a sold-out table?`
+
+**Answer panel:**
+> Resy Notify is a modern waitlist that turns cancellations into new booking opportunities. When a restaurant is fully booked for the day and time you want, you set a Notify alert instead of refreshing constantly. When a cancellation opens a slot matching your request (party size, date, time window), Resy sends you a push notification and you can claim the reservation immediately. Important caveats: Notify is not a guarantee — alerts go out to everyone who set one, and the slot can be claimed quickly, so you need to act fast. You can set Notify on more than one restaurant at a time. Some restaurants do not participate; for those, your best options are the in-person waitlist or walking in. (source: 03_resy_notify_how_it_works.txt)
+
+**Retrieved from panel:**
+```
+• 03_resy_notify_how_it_works.txt
+• 09_reddit_foodnyc_tips.txt
+• 04_resy_reservation_fraud.txt
+```
+
+---
+
+**Input:** `best ski resort in Colorado?`
+
+**Answer panel:**
+> I don't have enough information on that.
+
+**Retrieved from panel:**
+```
+(no sources — the guide doesn't cover this)
+```
+
+*(Out-of-domain refusal — the relevance gate blocked the LLM call entirely because the closest retrieved chunk had a cosine distance above 0.65.)*
 
 ---
 

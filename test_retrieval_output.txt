@@ -1,0 +1,211 @@
+python test_retrieval.py                                                                                           ─╯
+==============================================================================
+Q1: How far in advance do reservations at Tatiana drop, and at what time of day?
+==============================================================================
+
+[1] distance=0.3911  source=01_resy_toughest_reservations_nyc.txt (chunk #2)
+    Pro Tip: To know when the next reservation drops happen, register for
+    the Priority Access list on their website or Instagram.  Bistrot Ha
+    (Lower East Side) Reservations Drop: Two weeks in advance at midnight.
+    Should You Walk In? Yes, but if you do, start lining up by 4:45 p.m.
+    before they open at 5:30 p.m. Pro Tip: It
+
+[2] distance=0.4388  source=01_resy_toughest_reservations_nyc.txt (chunk #14)
+    Yes. The eight bar seats are reserved for walk-ins. Show up around 4:30
+    p.m. before they open at 5 p.m., or later, closer to 10:30 p.m.  Borgo
+    (Flatiron) Reservations Drop: 21 days in advance at 10 a.m. Pro Tip:
+    Walking in on the earlier side is preferable. Can't get a dinner table?
+    Stop by for lunch from 11:30 a.m. un
+
+[3] distance=0.4587  source=01_resy_toughest_reservations_nyc.txt (chunk #15)
+    Should You Walk In? Get there right when they open at 5 p.m. for a
+    chance at a table. The bar is first come, first served and serves the
+    full menu.  Tatiana, by Kwame Onwuachi (Lincoln Center) Reservations
+    Drop: 28 days in advance at 12 noon. Should You Walk In? Bar seats and
+    an outdoor dining area (when weather cooper
+
+[4] distance=0.4606  source=01_resy_toughest_reservations_nyc.txt (chunk #7)
+    Pro Tip: If you attempt to walk in, arrive right when they open at 5:30
+    p.m., or stop by at 7 or 9 p.m.  Rubirosa (NoLita) Reservations Drop:
+    Limited reservations seven days in advance for parties of up to seven,
+    starting at midnight. Whatever is still available gets dropped at 11
+    a.m. the next day. Should You Walk In?
+
+[5] distance=0.4816  source=01_resy_toughest_reservations_nyc.txt (chunk #5)
+    Pro Tip: One of the best seats in the house is at the bar, which is
+    reserved for walk-ins. Consider stopping in for lunch.  Yamada
+    (Chinatown) Reservations Drop: 20 days in advance, with two seating
+    times at 5:30 and 8:30 p.m., Tuesday through Saturday. Should You Walk
+    In? No. Pro Tip: Don't overlook the beverage list;
+
+  -> best distance 0.3911  [PASS (checkpoint: top result < 0.5)]
+
+==============================================================================
+Q2: What is Resy Notify and how does it help me get a sold-out table?
+==============================================================================
+
+[1] distance=0.3083  source=03_resy_notify_how_it_works.txt (chunk #0)
+    What Is Notify and How Does It Work? Source: Resy Help Desk
+    (https://helpdesk.resy.com/what-is-notify-and-how-does-it-work-
+    BJrJzPQLu)  Notify is Resy's modern waitlist, designed to turn
+    cancellations into new booking opportunities. When a restaurant is fully
+    booked for the day and time you want, you don't have to keep
+
+[2] distance=0.4818  source=03_resy_notify_how_it_works.txt (chunk #2)
+    - Some restaurants do not participate in Notify. For those, your best
+    route to a last-minute seat is the in-person waitlist or walking in.
+    Notify is most useful for restaurants where reservations sell out the
+    moment they drop. Setting Notify lets you catch the steady trickle of
+    cancellations that happen as a reservati
+
+[3] distance=0.5002  source=03_resy_notify_how_it_works.txt (chunk #1)
+    When that notification goes out, you can claim the reservation and book
+    it right away.  Important details to know: - Notify is not a guarantee
+    of a table. Alerts go out when availability opens, and reservations can
+    be claimed quickly, so you need to act fast when you get the
+    notification. - You can set Notify on more t
+
+[4] distance=0.5334  source=09_reddit_foodnyc_tips.txt (chunk #1)
+    Be logged in, on the app, with your card saved and party size pre-
+    selected, and refresh at the exact minute. Set two alarms so you don't
+    forget.  Question: I missed the drop. Is it hopeless? Community
+    consensus: No. Cancellations are the secret weapon. Turn on Resy Notify
+    (or the platform's equivalent waitlist) for the
+
+[5] distance=0.5583  source=04_resy_reservation_fraud.txt (chunk #1)
+    When a broker scoops up a block of prime Friday-night slots and can't
+    sell them all, those seats can sit empty while genuine guests are turned
+    away.  To fight this, Resy deployed a patent-pending machine learning
+    model that identifies platform misuse and fraudulent booking behavior.
+    Combined with the passing of the New
+
+  -> best distance 0.3083  [PASS (checkpoint: top result < 0.5)]
+
+==============================================================================
+Q3: What walk-in strategy is recommended for Ha's Snack Bar?
+==============================================================================
+
+[1] distance=0.4065  source=02_infatuation_toughest_reservations.txt (chunk #7)
+    Walk-ins are only accepted for drinks and dessert.  General tactics from
+    this guide: be online at the exact release time down to the minute;
+    learn which platform each restaurant uses (Resy, Tock, DoorDash,
+    SevenRooms, OpenTable, or direct text/DM); and treat bar seats and early
+    walk-in lines as a parallel path when res
+
+[2] distance=0.4581  source=09_reddit_foodnyc_tips.txt (chunk #2)
+    Checking the app at off-hours — early morning and around 2 to 4 p.m. —
+    surfaces released and canceled slots.  Question: Walk-ins — worth it?
+    Frequent advice: For a lot of NYC's hot restaurants, bar seats and a
+    portion of tables are held for walk-ins and are first come, first
+    served. Show up before the doors open (often
+
+[3] distance=0.4800  source=09_reddit_foodnyc_tips.txt (chunk #0)
+    Community Reservation Tips — r/FoodNYC Source: r/FoodNYC subreddit
+    (https://www.reddit.com/r/FoodNYC/) Note: This document summarizes
+    recurring, commonly shared advice from the r/FoodNYC community. It
+    paraphrases the kinds of tips that come up repeatedly in threads about
+    scoring hard reservations, rather than quoting i
+
+[4] distance=0.4818  source=01_resy_toughest_reservations_nyc.txt (chunk #12)
+    for weekend brunch. Pro Tip: Don't put your phone down after adding your
+    name to the waitlist; they text quickly when there's an opening.  Ha's
+    Snack Bar (Lower East Side) Reservations Drop: Two weeks in advance at
+    noon. Should You Walk In? Yes, but your best bet is to get there early
+    (they open at 5:30 p.m.). They've
+
+[5] distance=0.4881  source=01_resy_toughest_reservations_nyc.txt (chunk #13)
+    Should You Walk In? Yes. Stop by early for breakfast and lunch by
+    grabbing one of the six seats at the bar.  COQODAQ (Flatiron)
+    Reservations Drop: 14 days in advance at 10 a.m. Should You Walk In?
+    Yes; outdoor patio, barstools, and communal high-tops are available for
+    walk-ins and you can order the full menu. Arrive be
+
+  -> best distance 0.4065  [PASS (checkpoint: top result < 0.5)]
+
+==============================================================================
+Q4: Is it legal to buy a restaurant reservation on Appointment Trader in New York?
+==============================================================================
+
+[1] distance=0.2821  source=06_appointment_trader_marketplace.txt (chunk #0)
+    Appointment Trader: The Secondary Market for Restaurant Reservations
+    Source: Appointment Trader (https://appointmenttrader.com/)  Appointment
+    Trader is a marketplace where people buy and sell coveted restaurant
+    reservations. Instead of competing for a table when it drops, a buyer
+    can pay to claim a reservation that som
+
+[2] distance=0.2888  source=08_ny_reservation_resale_law.txt (chunk #0)
+    New York Banned Reservation Resales — and a Platform Is Testing the Law
+    Source: Columbia News Service
+    (https://columbianewsservice.com/2025/07/28/new-york-banned-reservation-
+    resales-now-appointment-trader-is-testing-the-law-with-ai/)  New York
+    passed the Restaurant Reservation Anti-Piracy Act, which targets the
+    unautho
+
+[3] distance=0.3514  source=08_ny_reservation_resale_law.txt (chunk #1)
+    er the law, selling reservations without an agreement with the
+    restaurant is prohibited, and platforms that facilitate such sales face
+    legal exposure.  Impact on the secondary market: when the law took
+    effect, resale platforms operating in New York were forced to change or
+    shut down their New York activity. Appointment
+
+[4] distance=0.4116  source=06_appointment_trader_marketplace.txt (chunk #1)
+    on top of what you'll spend on food and drinks, and at New York's most
+    in-demand restaurants that premium can easily run into the hundreds of
+    dollars.  How it works: sellers — the platform has reported around
+    15,000 of them — book or hold the best reservations and then list them
+    on Appointment Trader. Buyers place bids
+
+[5] distance=0.4241  source=07_nbc_reservations_sell_for_hundreds.txt (chunk #0)
+    Reservations at Top New York City Restaurants Are Selling for Hundreds
+    of Dollars Source: NBC News (https://www.nbcnews.com/news/us-
+    news/reservations-top-new-york-city-restaurants-are-selling-hundreds-
+    dollar-rcna151702)  At the hardest-to-book restaurants in New York City,
+    a reservation itself has become a product with
+
+  -> best distance 0.2821  [PASS (checkpoint: top result < 0.5)]
+
+==============================================================================
+Q5: If I can't get a table reservation, what's one tactic to still eat at a hard-to-book spot?
+==============================================================================
+
+[1] distance=0.2711  source=09_reddit_foodnyc_tips.txt (chunk #0)
+    Community Reservation Tips — r/FoodNYC Source: r/FoodNYC subreddit
+    (https://www.reddit.com/r/FoodNYC/) Note: This document summarizes
+    recurring, commonly shared advice from the r/FoodNYC community. It
+    paraphrases the kinds of tips that come up repeatedly in threads about
+    scoring hard reservations, rather than quoting i
+
+[2] distance=0.3564  source=09_reddit_foodnyc_tips.txt (chunk #3)
+    Solo diners and parties of two have much better walk-in odds than larger
+    groups.  Question: What about buying a reservation or using a bot?
+    Community caution: People warn against paying resellers or running bots.
+    Booking platforms cancel reservations flagged as bot-made and can
+    deactivate your account, and New York has
+
+[3] distance=0.3649  source=10_reddit_finedining_tips.txt (chunk #0)
+    Community Reservation Tips — r/finedining Source: r/finedining subreddit
+    (https://www.reddit.com/r/finedining/) Note: This document summarizes
+    recurring, commonly shared advice from the r/finedining community about
+    booking high-end and tasting-menu restaurants. It paraphrases patterns
+    of advice rather than quoting indi
+
+[4] distance=0.3837  source=02_infatuation_toughest_reservations.txt (chunk #0)
+    The Toughest Reservations In NYC Right Now (And How To Get Them) Source:
+    The Infatuation — New York (https://www.theinfatuation.com/new-
+    york/guides/toughest-restaurant-reservations-nyc)  This guide tracks the
+    hardest tables in New York and the specific tactics that actually work
+    for each one — when reservations are rel
+
+[5] distance=0.4069  source=03_resy_notify_how_it_works.txt (chunk #1)
+    When that notification goes out, you can claim the reservation and book
+    it right away.  Important details to know: - Notify is not a guarantee
+    of a table. Alerts go out when availability opens, and reservations can
+    be claimed quickly, so you need to act fast when you get the
+    notification. - You can set Notify on more t
+
+  -> best distance 0.2711  [PASS (checkpoint: top result < 0.5)]
+
+##############################################################################
+Checkpoint summary: 5/5 queries have a top result below 0.5.
+Each query above should return chunks that visibly relate to it, from the expected source.
+##############################################################################
